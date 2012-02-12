@@ -46,8 +46,8 @@ msgstr "låg"
 #: comment-rating.php:451
 #: comment-rating.php:454
 #@ ckrating
-msgid "comment rating"
-msgstr "karma. Läs mer om <a href=\\\"/om/kommentarer-och-kommentarskarma/\\\">kommentarer och kommentarskarma</a> – eller "
+msgid "comment rating"			
+msgstr "karma. Läs mer om <a href=\"/om/kommentarer-och-kommentarskarma/\">kommentarer och kommentarskarma</a> – eller "
 
 #: comment-rating.php:456
 #@ ckrating
